@@ -6,6 +6,10 @@
 
 ![taeyoon](images/IMG_3785.JPG)
 
+[class](https://github.com/toddwords/poetry-instruments)
+
 ![todd1](images/IMG_3786.JPG)
 
 ![todd2](images/IMG_3787.JPG)
+
+[quick rapbot](rapbot.js)
