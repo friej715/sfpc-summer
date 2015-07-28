@@ -1,2 +1,1 @@
-![setup]
-(/images/IMG_3782.JPG)
+![setup](/images/IMG_3782.JPG)
