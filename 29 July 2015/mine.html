@@ -10,12 +10,12 @@
   <style type="text/css">a:link {text-decoration:none;}</style>
 </head>
 <body style="font-family: Helvetica, 'Nimbus Sans L', 'Liberation Sans', Arial, sans-serif; background:white; color:black; padding:14px 28px 0 28px">
-<div style="text-align:center; font-size:15px; padding: 14px 0 28px 0;">based on <b style="font-size:20px">Upstart,</b> by <a href="http://nickm.com">Nick Montfort.</a></div>
-<div style="width:628px; font-size:36px; margin-left:auto; margin-right:auto">
-<div id="dotcom1" style="text-align:center; height:250px; width:300px; line-height:250px; background:red; color:white; float:left"></div>
+<div style="text-align:center; font-size:15px; padding: 14px 0 28px 0;"><b style="font-size:20px">Spaß-merde</b>, based on <a href="http://nickm.com">Nick Montfort's</a> Upstart.</div>
+<div style="width:100%; font-size:36px; margin-left:auto; margin-right:auto">
+<div id="dotcom1" style="text-align:center; height:250px; width:100%; line-height:250px; background:red; color:white; float:left"></div>
 </div>
 <script type="text/javascript">
-var panel = 1, names = [
+names = [
     ['avant-', 'garde'],
     ['bien', 'tôt'],
     ['bien', 'venu'],
@@ -34,22 +34,37 @@ var panel = 1, names = [
     ], fonts = [
     'Arial, Helvetica, sans-serif',
     ]
+
+colors = [
+    "red",
+    "green",
+    "blue",
+    "purple"
+]
+
 function rand_index(len) {
+    return Math.floor(Math.random() * len);
+}
+
+function rand_color(len) {
     return Math.floor(Math.random() * len);
 }
 function update() {
     "use strict";
     var first, second, font, dotcomdiv = document.getElementById('dotcom1');
+    var color;
     first = rand_index(names.length);
     second = rand_index(names.length - 1);
+    color = rand_color(colors.length)
     if (second === first)
         { second = names.length - 1; }
     dotcomdiv.innerHTML = names[first][0] + names[second][1];
+    dotcomdiv.style.backgroundColor = colors[color];
     font = fonts[rand_index(fonts.length)];
     dotcomdiv.style.fontFamily = font;
 }
 update();
-setInterval(update, 500);
+setInterval(update, 700);
 </script>
 </body>
 </html>
