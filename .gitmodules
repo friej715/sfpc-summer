@@ -1,0 +1,3 @@
+[submodule "secret-sfpc"]
+	path = secret-sfpc
+	url = git@github.com:friej715/secret-sfpc.git
