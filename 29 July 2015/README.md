@@ -1,1 +1,1 @@
-[!generator](images/language.gif)
+![generator](images/language.gif)
