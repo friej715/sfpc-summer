@@ -1,0 +1,60 @@
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+</head>
+<body>
+
+
+<script language="JavaScript" type="text/javascript">
+var emotions = ["joyous", "crushed", "pained", "giddy", "overtired", "upset", "afraid", "alive", "bewildered", "betrayed", "bitchy", "bitter", "calm", "carefree", "cherished", "loved", "confident", "cowardly", "depressed", "different", "disgusted", "ecstatic", "energized", "exhilirated", "flustered", "frightened", "fulfilled", "heartbroken", "humiliated", "inept", "innocent", "insane", "jealous", "melancholy", "mournful", "naive", "needed", "numb", "passionate", "pissed", "playful", "nostalgic", "safe", "sassy", "transfomed", "ugly", "weird", "yearning"]
+
+var string = "";
+string += "when was the last time you felt";
+
+var firstEmotion = Math.floor(Math.random() * emotions.length);
+string += " " + emotions[firstEmotion] + " ";
+
+emotions.splice(firstEmotion, 1)
+string += "and"
+
+var secondEmotion = Math.floor(Math.random() * emotions.length);
+string += " " + emotions[secondEmotion] + " ";
+
+string += "at the same time?"
+
+document.write(string)
+
+
+// var subjects = ["the girl", "the boy", "the man", "the woman", "they", "the actor", "the nun", "the author", "the cashier"]
+// var adjectives = ["confused", "angry", "ready for anything", "melancholy", "overtired", "elated", "devastated", "solemn", "wary", "cheeky"]
+// var verbs = ["a touch on the face", "a stroke of the hair", "an angry look", "endless pity", "a heavy sigh", "a shove"]
+// var results = ["smiled", "glared", "sighed", "rested", "beamed", "behaved", "blushed", "breathed", "disapproved"]
+
+
+// var string = "";
+// var randomSubject = Math.floor(Math.random() * subjects.length)
+// string += subjects[randomSubject] + " was "
+
+
+// for (var i = 0; i < 3; i++) {
+// 	randomAdjective = Math.floor(Math.random() * adjectives.length);
+// 	string += adjectives[randomAdjective] + " and "
+// 	adjectives.splice(randomAdjective, 1)
+// }
+
+// var randomSubject2 = Math.floor(Math.random() * subjects.length);
+// string += subjects[randomSubject2] + " just gave "
+
+// var randomVerb = Math.floor(Math.random() * verbs.length);
+// string += verbs[randomVerb]
+
+// string += " while " + subjects[randomSubject] + " "
+
+// var randomResult = Math.floor(Math.random() * verbs.length);
+// string += results[randomResult]
+
+// document.write(string)
+
+
+</script>
+</body>
