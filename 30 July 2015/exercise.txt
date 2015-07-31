@@ -1,0 +1,1200 @@
+isotomic alate  azimuth
+isotomic alate  color index
+isotomic alate  constellation
+isotomic alate  ecliptic
+isotomic alate  albedo
+isotomic alate  metallicity
+isotomic alate  opacity
+isotomic alate  periapsis
+isotomic alate  transit
+isotomic alate  zenith
+isotomic ambrosia  azimuth
+isotomic ambrosia  color index
+isotomic ambrosia  constellation
+isotomic ambrosia  ecliptic
+isotomic ambrosia  albedo
+isotomic ambrosia  metallicity
+isotomic ambrosia  opacity
+isotomic ambrosia  periapsis
+isotomic ambrosia  transit
+isotomic ambrosia  zenith
+isotomic metathoracic  azimuth
+isotomic metathoracic  color index
+isotomic metathoracic  constellation
+isotomic metathoracic  ecliptic
+isotomic metathoracic  albedo
+isotomic metathoracic  metallicity
+isotomic metathoracic  opacity
+isotomic metathoracic  periapsis
+isotomic metathoracic  transit
+isotomic metathoracic  zenith
+isotomic proboscis  azimuth
+isotomic proboscis  color index
+isotomic proboscis  constellation
+isotomic proboscis  ecliptic
+isotomic proboscis  albedo
+isotomic proboscis  metallicity
+isotomic proboscis  opacity
+isotomic proboscis  periapsis
+isotomic proboscis  transit
+isotomic proboscis  zenith
+isotomic sporophagic  azimuth
+isotomic sporophagic  color index
+isotomic sporophagic  constellation
+isotomic sporophagic  ecliptic
+isotomic sporophagic  albedo
+isotomic sporophagic  metallicity
+isotomic sporophagic  opacity
+isotomic sporophagic  periapsis
+isotomic sporophagic  transit
+isotomic sporophagic  zenith
+isotomic villose  azimuth
+isotomic villose  color index
+isotomic villose  constellation
+isotomic villose  ecliptic
+isotomic villose  albedo
+isotomic villose  metallicity
+isotomic villose  opacity
+isotomic villose  periapsis
+isotomic villose  transit
+isotomic villose  zenith
+isotomic hypypharynx  azimuth
+isotomic hypypharynx  color index
+isotomic hypypharynx  constellation
+isotomic hypypharynx  ecliptic
+isotomic hypypharynx  albedo
+isotomic hypypharynx  metallicity
+isotomic hypypharynx  opacity
+isotomic hypypharynx  periapsis
+isotomic hypypharynx  transit
+isotomic hypypharynx  zenith
+isotomic hyaline  azimuth
+isotomic hyaline  color index
+isotomic hyaline  constellation
+isotomic hyaline  ecliptic
+isotomic hyaline  albedo
+isotomic hyaline  metallicity
+isotomic hyaline  opacity
+isotomic hyaline  periapsis
+isotomic hyaline  transit
+isotomic hyaline  zenith
+isotomic hemophagic  azimuth
+isotomic hemophagic  color index
+isotomic hemophagic  constellation
+isotomic hemophagic  ecliptic
+isotomic hemophagic  albedo
+isotomic hemophagic  metallicity
+isotomic hemophagic  opacity
+isotomic hemophagic  periapsis
+isotomic hemophagic  transit
+isotomic hemophagic  zenith
+isotomic acariphagous  azimuth
+isotomic acariphagous  color index
+isotomic acariphagous  constellation
+isotomic acariphagous  ecliptic
+isotomic acariphagous  albedo
+isotomic acariphagous  metallicity
+isotomic acariphagous  opacity
+isotomic acariphagous  periapsis
+isotomic acariphagous  transit
+isotomic acariphagous  zenith
+lobed alate  azimuth
+lobed alate  color index
+lobed alate  constellation
+lobed alate  ecliptic
+lobed alate  albedo
+lobed alate  metallicity
+lobed alate  opacity
+lobed alate  periapsis
+lobed alate  transit
+lobed alate  zenith
+lobed ambrosia  azimuth
+lobed ambrosia  color index
+lobed ambrosia  constellation
+lobed ambrosia  ecliptic
+lobed ambrosia  albedo
+lobed ambrosia  metallicity
+lobed ambrosia  opacity
+lobed ambrosia  periapsis
+lobed ambrosia  transit
+lobed ambrosia  zenith
+lobed metathoracic  azimuth
+lobed metathoracic  color index
+lobed metathoracic  constellation
+lobed metathoracic  ecliptic
+lobed metathoracic  albedo
+lobed metathoracic  metallicity
+lobed metathoracic  opacity
+lobed metathoracic  periapsis
+lobed metathoracic  transit
+lobed metathoracic  zenith
+lobed proboscis  azimuth
+lobed proboscis  color index
+lobed proboscis  constellation
+lobed proboscis  ecliptic
+lobed proboscis  albedo
+lobed proboscis  metallicity
+lobed proboscis  opacity
+lobed proboscis  periapsis
+lobed proboscis  transit
+lobed proboscis  zenith
+lobed sporophagic  azimuth
+lobed sporophagic  color index
+lobed sporophagic  constellation
+lobed sporophagic  ecliptic
+lobed sporophagic  albedo
+lobed sporophagic  metallicity
+lobed sporophagic  opacity
+lobed sporophagic  periapsis
+lobed sporophagic  transit
+lobed sporophagic  zenith
+lobed villose  azimuth
+lobed villose  color index
+lobed villose  constellation
+lobed villose  ecliptic
+lobed villose  albedo
+lobed villose  metallicity
+lobed villose  opacity
+lobed villose  periapsis
+lobed villose  transit
+lobed villose  zenith
+lobed hypypharynx  azimuth
+lobed hypypharynx  color index
+lobed hypypharynx  constellation
+lobed hypypharynx  ecliptic
+lobed hypypharynx  albedo
+lobed hypypharynx  metallicity
+lobed hypypharynx  opacity
+lobed hypypharynx  periapsis
+lobed hypypharynx  transit
+lobed hypypharynx  zenith
+lobed hyaline  azimuth
+lobed hyaline  color index
+lobed hyaline  constellation
+lobed hyaline  ecliptic
+lobed hyaline  albedo
+lobed hyaline  metallicity
+lobed hyaline  opacity
+lobed hyaline  periapsis
+lobed hyaline  transit
+lobed hyaline  zenith
+lobed hemophagic  azimuth
+lobed hemophagic  color index
+lobed hemophagic  constellation
+lobed hemophagic  ecliptic
+lobed hemophagic  albedo
+lobed hemophagic  metallicity
+lobed hemophagic  opacity
+lobed hemophagic  periapsis
+lobed hemophagic  transit
+lobed hemophagic  zenith
+lobed acariphagous  azimuth
+lobed acariphagous  color index
+lobed acariphagous  constellation
+lobed acariphagous  ecliptic
+lobed acariphagous  albedo
+lobed acariphagous  metallicity
+lobed acariphagous  opacity
+lobed acariphagous  periapsis
+lobed acariphagous  transit
+lobed acariphagous  zenith
+perianth alate  azimuth
+perianth alate  color index
+perianth alate  constellation
+perianth alate  ecliptic
+perianth alate  albedo
+perianth alate  metallicity
+perianth alate  opacity
+perianth alate  periapsis
+perianth alate  transit
+perianth alate  zenith
+perianth ambrosia  azimuth
+perianth ambrosia  color index
+perianth ambrosia  constellation
+perianth ambrosia  ecliptic
+perianth ambrosia  albedo
+perianth ambrosia  metallicity
+perianth ambrosia  opacity
+perianth ambrosia  periapsis
+perianth ambrosia  transit
+perianth ambrosia  zenith
+perianth metathoracic  azimuth
+perianth metathoracic  color index
+perianth metathoracic  constellation
+perianth metathoracic  ecliptic
+perianth metathoracic  albedo
+perianth metathoracic  metallicity
+perianth metathoracic  opacity
+perianth metathoracic  periapsis
+perianth metathoracic  transit
+perianth metathoracic  zenith
+perianth proboscis  azimuth
+perianth proboscis  color index
+perianth proboscis  constellation
+perianth proboscis  ecliptic
+perianth proboscis  albedo
+perianth proboscis  metallicity
+perianth proboscis  opacity
+perianth proboscis  periapsis
+perianth proboscis  transit
+perianth proboscis  zenith
+perianth sporophagic  azimuth
+perianth sporophagic  color index
+perianth sporophagic  constellation
+perianth sporophagic  ecliptic
+perianth sporophagic  albedo
+perianth sporophagic  metallicity
+perianth sporophagic  opacity
+perianth sporophagic  periapsis
+perianth sporophagic  transit
+perianth sporophagic  zenith
+perianth villose  azimuth
+perianth villose  color index
+perianth villose  constellation
+perianth villose  ecliptic
+perianth villose  albedo
+perianth villose  metallicity
+perianth villose  opacity
+perianth villose  periapsis
+perianth villose  transit
+perianth villose  zenith
+perianth hypypharynx  azimuth
+perianth hypypharynx  color index
+perianth hypypharynx  constellation
+perianth hypypharynx  ecliptic
+perianth hypypharynx  albedo
+perianth hypypharynx  metallicity
+perianth hypypharynx  opacity
+perianth hypypharynx  periapsis
+perianth hypypharynx  transit
+perianth hypypharynx  zenith
+perianth hyaline  azimuth
+perianth hyaline  color index
+perianth hyaline  constellation
+perianth hyaline  ecliptic
+perianth hyaline  albedo
+perianth hyaline  metallicity
+perianth hyaline  opacity
+perianth hyaline  periapsis
+perianth hyaline  transit
+perianth hyaline  zenith
+perianth hemophagic  azimuth
+perianth hemophagic  color index
+perianth hemophagic  constellation
+perianth hemophagic  ecliptic
+perianth hemophagic  albedo
+perianth hemophagic  metallicity
+perianth hemophagic  opacity
+perianth hemophagic  periapsis
+perianth hemophagic  transit
+perianth hemophagic  zenith
+perianth acariphagous  azimuth
+perianth acariphagous  color index
+perianth acariphagous  constellation
+perianth acariphagous  ecliptic
+perianth acariphagous  albedo
+perianth acariphagous  metallicity
+perianth acariphagous  opacity
+perianth acariphagous  periapsis
+perianth acariphagous  transit
+perianth acariphagous  zenith
+terrestrial alate  azimuth
+terrestrial alate  color index
+terrestrial alate  constellation
+terrestrial alate  ecliptic
+terrestrial alate  albedo
+terrestrial alate  metallicity
+terrestrial alate  opacity
+terrestrial alate  periapsis
+terrestrial alate  transit
+terrestrial alate  zenith
+terrestrial ambrosia  azimuth
+terrestrial ambrosia  color index
+terrestrial ambrosia  constellation
+terrestrial ambrosia  ecliptic
+terrestrial ambrosia  albedo
+terrestrial ambrosia  metallicity
+terrestrial ambrosia  opacity
+terrestrial ambrosia  periapsis
+terrestrial ambrosia  transit
+terrestrial ambrosia  zenith
+terrestrial metathoracic  azimuth
+terrestrial metathoracic  color index
+terrestrial metathoracic  constellation
+terrestrial metathoracic  ecliptic
+terrestrial metathoracic  albedo
+terrestrial metathoracic  metallicity
+terrestrial metathoracic  opacity
+terrestrial metathoracic  periapsis
+terrestrial metathoracic  transit
+terrestrial metathoracic  zenith
+terrestrial proboscis  azimuth
+terrestrial proboscis  color index
+terrestrial proboscis  constellation
+terrestrial proboscis  ecliptic
+terrestrial proboscis  albedo
+terrestrial proboscis  metallicity
+terrestrial proboscis  opacity
+terrestrial proboscis  periapsis
+terrestrial proboscis  transit
+terrestrial proboscis  zenith
+terrestrial sporophagic  azimuth
+terrestrial sporophagic  color index
+terrestrial sporophagic  constellation
+terrestrial sporophagic  ecliptic
+terrestrial sporophagic  albedo
+terrestrial sporophagic  metallicity
+terrestrial sporophagic  opacity
+terrestrial sporophagic  periapsis
+terrestrial sporophagic  transit
+terrestrial sporophagic  zenith
+terrestrial villose  azimuth
+terrestrial villose  color index
+terrestrial villose  constellation
+terrestrial villose  ecliptic
+terrestrial villose  albedo
+terrestrial villose  metallicity
+terrestrial villose  opacity
+terrestrial villose  periapsis
+terrestrial villose  transit
+terrestrial villose  zenith
+terrestrial hypypharynx  azimuth
+terrestrial hypypharynx  color index
+terrestrial hypypharynx  constellation
+terrestrial hypypharynx  ecliptic
+terrestrial hypypharynx  albedo
+terrestrial hypypharynx  metallicity
+terrestrial hypypharynx  opacity
+terrestrial hypypharynx  periapsis
+terrestrial hypypharynx  transit
+terrestrial hypypharynx  zenith
+terrestrial hyaline  azimuth
+terrestrial hyaline  color index
+terrestrial hyaline  constellation
+terrestrial hyaline  ecliptic
+terrestrial hyaline  albedo
+terrestrial hyaline  metallicity
+terrestrial hyaline  opacity
+terrestrial hyaline  periapsis
+terrestrial hyaline  transit
+terrestrial hyaline  zenith
+terrestrial hemophagic  azimuth
+terrestrial hemophagic  color index
+terrestrial hemophagic  constellation
+terrestrial hemophagic  ecliptic
+terrestrial hemophagic  albedo
+terrestrial hemophagic  metallicity
+terrestrial hemophagic  opacity
+terrestrial hemophagic  periapsis
+terrestrial hemophagic  transit
+terrestrial hemophagic  zenith
+terrestrial acariphagous  azimuth
+terrestrial acariphagous  color index
+terrestrial acariphagous  constellation
+terrestrial acariphagous  ecliptic
+terrestrial acariphagous  albedo
+terrestrial acariphagous  metallicity
+terrestrial acariphagous  opacity
+terrestrial acariphagous  periapsis
+terrestrial acariphagous  transit
+terrestrial acariphagous  zenith
+toothed alate  azimuth
+toothed alate  color index
+toothed alate  constellation
+toothed alate  ecliptic
+toothed alate  albedo
+toothed alate  metallicity
+toothed alate  opacity
+toothed alate  periapsis
+toothed alate  transit
+toothed alate  zenith
+toothed ambrosia  azimuth
+toothed ambrosia  color index
+toothed ambrosia  constellation
+toothed ambrosia  ecliptic
+toothed ambrosia  albedo
+toothed ambrosia  metallicity
+toothed ambrosia  opacity
+toothed ambrosia  periapsis
+toothed ambrosia  transit
+toothed ambrosia  zenith
+toothed metathoracic  azimuth
+toothed metathoracic  color index
+toothed metathoracic  constellation
+toothed metathoracic  ecliptic
+toothed metathoracic  albedo
+toothed metathoracic  metallicity
+toothed metathoracic  opacity
+toothed metathoracic  periapsis
+toothed metathoracic  transit
+toothed metathoracic  zenith
+toothed proboscis  azimuth
+toothed proboscis  color index
+toothed proboscis  constellation
+toothed proboscis  ecliptic
+toothed proboscis  albedo
+toothed proboscis  metallicity
+toothed proboscis  opacity
+toothed proboscis  periapsis
+toothed proboscis  transit
+toothed proboscis  zenith
+toothed sporophagic  azimuth
+toothed sporophagic  color index
+toothed sporophagic  constellation
+toothed sporophagic  ecliptic
+toothed sporophagic  albedo
+toothed sporophagic  metallicity
+toothed sporophagic  opacity
+toothed sporophagic  periapsis
+toothed sporophagic  transit
+toothed sporophagic  zenith
+toothed villose  azimuth
+toothed villose  color index
+toothed villose  constellation
+toothed villose  ecliptic
+toothed villose  albedo
+toothed villose  metallicity
+toothed villose  opacity
+toothed villose  periapsis
+toothed villose  transit
+toothed villose  zenith
+toothed hypypharynx  azimuth
+toothed hypypharynx  color index
+toothed hypypharynx  constellation
+toothed hypypharynx  ecliptic
+toothed hypypharynx  albedo
+toothed hypypharynx  metallicity
+toothed hypypharynx  opacity
+toothed hypypharynx  periapsis
+toothed hypypharynx  transit
+toothed hypypharynx  zenith
+toothed hyaline  azimuth
+toothed hyaline  color index
+toothed hyaline  constellation
+toothed hyaline  ecliptic
+toothed hyaline  albedo
+toothed hyaline  metallicity
+toothed hyaline  opacity
+toothed hyaline  periapsis
+toothed hyaline  transit
+toothed hyaline  zenith
+toothed hemophagic  azimuth
+toothed hemophagic  color index
+toothed hemophagic  constellation
+toothed hemophagic  ecliptic
+toothed hemophagic  albedo
+toothed hemophagic  metallicity
+toothed hemophagic  opacity
+toothed hemophagic  periapsis
+toothed hemophagic  transit
+toothed hemophagic  zenith
+toothed acariphagous  azimuth
+toothed acariphagous  color index
+toothed acariphagous  constellation
+toothed acariphagous  ecliptic
+toothed acariphagous  albedo
+toothed acariphagous  metallicity
+toothed acariphagous  opacity
+toothed acariphagous  periapsis
+toothed acariphagous  transit
+toothed acariphagous  zenith
+trapeziform alate  azimuth
+trapeziform alate  color index
+trapeziform alate  constellation
+trapeziform alate  ecliptic
+trapeziform alate  albedo
+trapeziform alate  metallicity
+trapeziform alate  opacity
+trapeziform alate  periapsis
+trapeziform alate  transit
+trapeziform alate  zenith
+trapeziform ambrosia  azimuth
+trapeziform ambrosia  color index
+trapeziform ambrosia  constellation
+trapeziform ambrosia  ecliptic
+trapeziform ambrosia  albedo
+trapeziform ambrosia  metallicity
+trapeziform ambrosia  opacity
+trapeziform ambrosia  periapsis
+trapeziform ambrosia  transit
+trapeziform ambrosia  zenith
+trapeziform metathoracic  azimuth
+trapeziform metathoracic  color index
+trapeziform metathoracic  constellation
+trapeziform metathoracic  ecliptic
+trapeziform metathoracic  albedo
+trapeziform metathoracic  metallicity
+trapeziform metathoracic  opacity
+trapeziform metathoracic  periapsis
+trapeziform metathoracic  transit
+trapeziform metathoracic  zenith
+trapeziform proboscis  azimuth
+trapeziform proboscis  color index
+trapeziform proboscis  constellation
+trapeziform proboscis  ecliptic
+trapeziform proboscis  albedo
+trapeziform proboscis  metallicity
+trapeziform proboscis  opacity
+trapeziform proboscis  periapsis
+trapeziform proboscis  transit
+trapeziform proboscis  zenith
+trapeziform sporophagic  azimuth
+trapeziform sporophagic  color index
+trapeziform sporophagic  constellation
+trapeziform sporophagic  ecliptic
+trapeziform sporophagic  albedo
+trapeziform sporophagic  metallicity
+trapeziform sporophagic  opacity
+trapeziform sporophagic  periapsis
+trapeziform sporophagic  transit
+trapeziform sporophagic  zenith
+trapeziform villose  azimuth
+trapeziform villose  color index
+trapeziform villose  constellation
+trapeziform villose  ecliptic
+trapeziform villose  albedo
+trapeziform villose  metallicity
+trapeziform villose  opacity
+trapeziform villose  periapsis
+trapeziform villose  transit
+trapeziform villose  zenith
+trapeziform hypypharynx  azimuth
+trapeziform hypypharynx  color index
+trapeziform hypypharynx  constellation
+trapeziform hypypharynx  ecliptic
+trapeziform hypypharynx  albedo
+trapeziform hypypharynx  metallicity
+trapeziform hypypharynx  opacity
+trapeziform hypypharynx  periapsis
+trapeziform hypypharynx  transit
+trapeziform hypypharynx  zenith
+trapeziform hyaline  azimuth
+trapeziform hyaline  color index
+trapeziform hyaline  constellation
+trapeziform hyaline  ecliptic
+trapeziform hyaline  albedo
+trapeziform hyaline  metallicity
+trapeziform hyaline  opacity
+trapeziform hyaline  periapsis
+trapeziform hyaline  transit
+trapeziform hyaline  zenith
+trapeziform hemophagic  azimuth
+trapeziform hemophagic  color index
+trapeziform hemophagic  constellation
+trapeziform hemophagic  ecliptic
+trapeziform hemophagic  albedo
+trapeziform hemophagic  metallicity
+trapeziform hemophagic  opacity
+trapeziform hemophagic  periapsis
+trapeziform hemophagic  transit
+trapeziform hemophagic  zenith
+trapeziform acariphagous  azimuth
+trapeziform acariphagous  color index
+trapeziform acariphagous  constellation
+trapeziform acariphagous  ecliptic
+trapeziform acariphagous  albedo
+trapeziform acariphagous  metallicity
+trapeziform acariphagous  opacity
+trapeziform acariphagous  periapsis
+trapeziform acariphagous  transit
+trapeziform acariphagous  zenith
+tree alate  azimuth
+tree alate  color index
+tree alate  constellation
+tree alate  ecliptic
+tree alate  albedo
+tree alate  metallicity
+tree alate  opacity
+tree alate  periapsis
+tree alate  transit
+tree alate  zenith
+tree ambrosia  azimuth
+tree ambrosia  color index
+tree ambrosia  constellation
+tree ambrosia  ecliptic
+tree ambrosia  albedo
+tree ambrosia  metallicity
+tree ambrosia  opacity
+tree ambrosia  periapsis
+tree ambrosia  transit
+tree ambrosia  zenith
+tree metathoracic  azimuth
+tree metathoracic  color index
+tree metathoracic  constellation
+tree metathoracic  ecliptic
+tree metathoracic  albedo
+tree metathoracic  metallicity
+tree metathoracic  opacity
+tree metathoracic  periapsis
+tree metathoracic  transit
+tree metathoracic  zenith
+tree proboscis  azimuth
+tree proboscis  color index
+tree proboscis  constellation
+tree proboscis  ecliptic
+tree proboscis  albedo
+tree proboscis  metallicity
+tree proboscis  opacity
+tree proboscis  periapsis
+tree proboscis  transit
+tree proboscis  zenith
+tree sporophagic  azimuth
+tree sporophagic  color index
+tree sporophagic  constellation
+tree sporophagic  ecliptic
+tree sporophagic  albedo
+tree sporophagic  metallicity
+tree sporophagic  opacity
+tree sporophagic  periapsis
+tree sporophagic  transit
+tree sporophagic  zenith
+tree villose  azimuth
+tree villose  color index
+tree villose  constellation
+tree villose  ecliptic
+tree villose  albedo
+tree villose  metallicity
+tree villose  opacity
+tree villose  periapsis
+tree villose  transit
+tree villose  zenith
+tree hypypharynx  azimuth
+tree hypypharynx  color index
+tree hypypharynx  constellation
+tree hypypharynx  ecliptic
+tree hypypharynx  albedo
+tree hypypharynx  metallicity
+tree hypypharynx  opacity
+tree hypypharynx  periapsis
+tree hypypharynx  transit
+tree hypypharynx  zenith
+tree hyaline  azimuth
+tree hyaline  color index
+tree hyaline  constellation
+tree hyaline  ecliptic
+tree hyaline  albedo
+tree hyaline  metallicity
+tree hyaline  opacity
+tree hyaline  periapsis
+tree hyaline  transit
+tree hyaline  zenith
+tree hemophagic  azimuth
+tree hemophagic  color index
+tree hemophagic  constellation
+tree hemophagic  ecliptic
+tree hemophagic  albedo
+tree hemophagic  metallicity
+tree hemophagic  opacity
+tree hemophagic  periapsis
+tree hemophagic  transit
+tree hemophagic  zenith
+tree acariphagous  azimuth
+tree acariphagous  color index
+tree acariphagous  constellation
+tree acariphagous  ecliptic
+tree acariphagous  albedo
+tree acariphagous  metallicity
+tree acariphagous  opacity
+tree acariphagous  periapsis
+tree acariphagous  transit
+tree acariphagous  zenith
+urn-shaped alate  azimuth
+urn-shaped alate  color index
+urn-shaped alate  constellation
+urn-shaped alate  ecliptic
+urn-shaped alate  albedo
+urn-shaped alate  metallicity
+urn-shaped alate  opacity
+urn-shaped alate  periapsis
+urn-shaped alate  transit
+urn-shaped alate  zenith
+urn-shaped ambrosia  azimuth
+urn-shaped ambrosia  color index
+urn-shaped ambrosia  constellation
+urn-shaped ambrosia  ecliptic
+urn-shaped ambrosia  albedo
+urn-shaped ambrosia  metallicity
+urn-shaped ambrosia  opacity
+urn-shaped ambrosia  periapsis
+urn-shaped ambrosia  transit
+urn-shaped ambrosia  zenith
+urn-shaped metathoracic  azimuth
+urn-shaped metathoracic  color index
+urn-shaped metathoracic  constellation
+urn-shaped metathoracic  ecliptic
+urn-shaped metathoracic  albedo
+urn-shaped metathoracic  metallicity
+urn-shaped metathoracic  opacity
+urn-shaped metathoracic  periapsis
+urn-shaped metathoracic  transit
+urn-shaped metathoracic  zenith
+urn-shaped proboscis  azimuth
+urn-shaped proboscis  color index
+urn-shaped proboscis  constellation
+urn-shaped proboscis  ecliptic
+urn-shaped proboscis  albedo
+urn-shaped proboscis  metallicity
+urn-shaped proboscis  opacity
+urn-shaped proboscis  periapsis
+urn-shaped proboscis  transit
+urn-shaped proboscis  zenith
+urn-shaped sporophagic  azimuth
+urn-shaped sporophagic  color index
+urn-shaped sporophagic  constellation
+urn-shaped sporophagic  ecliptic
+urn-shaped sporophagic  albedo
+urn-shaped sporophagic  metallicity
+urn-shaped sporophagic  opacity
+urn-shaped sporophagic  periapsis
+urn-shaped sporophagic  transit
+urn-shaped sporophagic  zenith
+urn-shaped villose  azimuth
+urn-shaped villose  color index
+urn-shaped villose  constellation
+urn-shaped villose  ecliptic
+urn-shaped villose  albedo
+urn-shaped villose  metallicity
+urn-shaped villose  opacity
+urn-shaped villose  periapsis
+urn-shaped villose  transit
+urn-shaped villose  zenith
+urn-shaped hypypharynx  azimuth
+urn-shaped hypypharynx  color index
+urn-shaped hypypharynx  constellation
+urn-shaped hypypharynx  ecliptic
+urn-shaped hypypharynx  albedo
+urn-shaped hypypharynx  metallicity
+urn-shaped hypypharynx  opacity
+urn-shaped hypypharynx  periapsis
+urn-shaped hypypharynx  transit
+urn-shaped hypypharynx  zenith
+urn-shaped hyaline  azimuth
+urn-shaped hyaline  color index
+urn-shaped hyaline  constellation
+urn-shaped hyaline  ecliptic
+urn-shaped hyaline  albedo
+urn-shaped hyaline  metallicity
+urn-shaped hyaline  opacity
+urn-shaped hyaline  periapsis
+urn-shaped hyaline  transit
+urn-shaped hyaline  zenith
+urn-shaped hemophagic  azimuth
+urn-shaped hemophagic  color index
+urn-shaped hemophagic  constellation
+urn-shaped hemophagic  ecliptic
+urn-shaped hemophagic  albedo
+urn-shaped hemophagic  metallicity
+urn-shaped hemophagic  opacity
+urn-shaped hemophagic  periapsis
+urn-shaped hemophagic  transit
+urn-shaped hemophagic  zenith
+urn-shaped acariphagous  azimuth
+urn-shaped acariphagous  color index
+urn-shaped acariphagous  constellation
+urn-shaped acariphagous  ecliptic
+urn-shaped acariphagous  albedo
+urn-shaped acariphagous  metallicity
+urn-shaped acariphagous  opacity
+urn-shaped acariphagous  periapsis
+urn-shaped acariphagous  transit
+urn-shaped acariphagous  zenith
+variegated alate  azimuth
+variegated alate  color index
+variegated alate  constellation
+variegated alate  ecliptic
+variegated alate  albedo
+variegated alate  metallicity
+variegated alate  opacity
+variegated alate  periapsis
+variegated alate  transit
+variegated alate  zenith
+variegated ambrosia  azimuth
+variegated ambrosia  color index
+variegated ambrosia  constellation
+variegated ambrosia  ecliptic
+variegated ambrosia  albedo
+variegated ambrosia  metallicity
+variegated ambrosia  opacity
+variegated ambrosia  periapsis
+variegated ambrosia  transit
+variegated ambrosia  zenith
+variegated metathoracic  azimuth
+variegated metathoracic  color index
+variegated metathoracic  constellation
+variegated metathoracic  ecliptic
+variegated metathoracic  albedo
+variegated metathoracic  metallicity
+variegated metathoracic  opacity
+variegated metathoracic  periapsis
+variegated metathoracic  transit
+variegated metathoracic  zenith
+variegated proboscis  azimuth
+variegated proboscis  color index
+variegated proboscis  constellation
+variegated proboscis  ecliptic
+variegated proboscis  albedo
+variegated proboscis  metallicity
+variegated proboscis  opacity
+variegated proboscis  periapsis
+variegated proboscis  transit
+variegated proboscis  zenith
+variegated sporophagic  azimuth
+variegated sporophagic  color index
+variegated sporophagic  constellation
+variegated sporophagic  ecliptic
+variegated sporophagic  albedo
+variegated sporophagic  metallicity
+variegated sporophagic  opacity
+variegated sporophagic  periapsis
+variegated sporophagic  transit
+variegated sporophagic  zenith
+variegated villose  azimuth
+variegated villose  color index
+variegated villose  constellation
+variegated villose  ecliptic
+variegated villose  albedo
+variegated villose  metallicity
+variegated villose  opacity
+variegated villose  periapsis
+variegated villose  transit
+variegated villose  zenith
+variegated hypypharynx  azimuth
+variegated hypypharynx  color index
+variegated hypypharynx  constellation
+variegated hypypharynx  ecliptic
+variegated hypypharynx  albedo
+variegated hypypharynx  metallicity
+variegated hypypharynx  opacity
+variegated hypypharynx  periapsis
+variegated hypypharynx  transit
+variegated hypypharynx  zenith
+variegated hyaline  azimuth
+variegated hyaline  color index
+variegated hyaline  constellation
+variegated hyaline  ecliptic
+variegated hyaline  albedo
+variegated hyaline  metallicity
+variegated hyaline  opacity
+variegated hyaline  periapsis
+variegated hyaline  transit
+variegated hyaline  zenith
+variegated hemophagic  azimuth
+variegated hemophagic  color index
+variegated hemophagic  constellation
+variegated hemophagic  ecliptic
+variegated hemophagic  albedo
+variegated hemophagic  metallicity
+variegated hemophagic  opacity
+variegated hemophagic  periapsis
+variegated hemophagic  transit
+variegated hemophagic  zenith
+variegated acariphagous  azimuth
+variegated acariphagous  color index
+variegated acariphagous  constellation
+variegated acariphagous  ecliptic
+variegated acariphagous  albedo
+variegated acariphagous  metallicity
+variegated acariphagous  opacity
+variegated acariphagous  periapsis
+variegated acariphagous  transit
+variegated acariphagous  zenith
+veined alate  azimuth
+veined alate  color index
+veined alate  constellation
+veined alate  ecliptic
+veined alate  albedo
+veined alate  metallicity
+veined alate  opacity
+veined alate  periapsis
+veined alate  transit
+veined alate  zenith
+veined ambrosia  azimuth
+veined ambrosia  color index
+veined ambrosia  constellation
+veined ambrosia  ecliptic
+veined ambrosia  albedo
+veined ambrosia  metallicity
+veined ambrosia  opacity
+veined ambrosia  periapsis
+veined ambrosia  transit
+veined ambrosia  zenith
+veined metathoracic  azimuth
+veined metathoracic  color index
+veined metathoracic  constellation
+veined metathoracic  ecliptic
+veined metathoracic  albedo
+veined metathoracic  metallicity
+veined metathoracic  opacity
+veined metathoracic  periapsis
+veined metathoracic  transit
+veined metathoracic  zenith
+veined proboscis  azimuth
+veined proboscis  color index
+veined proboscis  constellation
+veined proboscis  ecliptic
+veined proboscis  albedo
+veined proboscis  metallicity
+veined proboscis  opacity
+veined proboscis  periapsis
+veined proboscis  transit
+veined proboscis  zenith
+veined sporophagic  azimuth
+veined sporophagic  color index
+veined sporophagic  constellation
+veined sporophagic  ecliptic
+veined sporophagic  albedo
+veined sporophagic  metallicity
+veined sporophagic  opacity
+veined sporophagic  periapsis
+veined sporophagic  transit
+veined sporophagic  zenith
+veined villose  azimuth
+veined villose  color index
+veined villose  constellation
+veined villose  ecliptic
+veined villose  albedo
+veined villose  metallicity
+veined villose  opacity
+veined villose  periapsis
+veined villose  transit
+veined villose  zenith
+veined hypypharynx  azimuth
+veined hypypharynx  color index
+veined hypypharynx  constellation
+veined hypypharynx  ecliptic
+veined hypypharynx  albedo
+veined hypypharynx  metallicity
+veined hypypharynx  opacity
+veined hypypharynx  periapsis
+veined hypypharynx  transit
+veined hypypharynx  zenith
+veined hyaline  azimuth
+veined hyaline  color index
+veined hyaline  constellation
+veined hyaline  ecliptic
+veined hyaline  albedo
+veined hyaline  metallicity
+veined hyaline  opacity
+veined hyaline  periapsis
+veined hyaline  transit
+veined hyaline  zenith
+veined hemophagic  azimuth
+veined hemophagic  color index
+veined hemophagic  constellation
+veined hemophagic  ecliptic
+veined hemophagic  albedo
+veined hemophagic  metallicity
+veined hemophagic  opacity
+veined hemophagic  periapsis
+veined hemophagic  transit
+veined hemophagic  zenith
+veined acariphagous  azimuth
+veined acariphagous  color index
+veined acariphagous  constellation
+veined acariphagous  ecliptic
+veined acariphagous  albedo
+veined acariphagous  metallicity
+veined acariphagous  opacity
+veined acariphagous  periapsis
+veined acariphagous  transit
+veined acariphagous  zenith
+whorled alate  azimuth
+whorled alate  color index
+whorled alate  constellation
+whorled alate  ecliptic
+whorled alate  albedo
+whorled alate  metallicity
+whorled alate  opacity
+whorled alate  periapsis
+whorled alate  transit
+whorled alate  zenith
+whorled ambrosia  azimuth
+whorled ambrosia  color index
+whorled ambrosia  constellation
+whorled ambrosia  ecliptic
+whorled ambrosia  albedo
+whorled ambrosia  metallicity
+whorled ambrosia  opacity
+whorled ambrosia  periapsis
+whorled ambrosia  transit
+whorled ambrosia  zenith
+whorled metathoracic  azimuth
+whorled metathoracic  color index
+whorled metathoracic  constellation
+whorled metathoracic  ecliptic
+whorled metathoracic  albedo
+whorled metathoracic  metallicity
+whorled metathoracic  opacity
+whorled metathoracic  periapsis
+whorled metathoracic  transit
+whorled metathoracic  zenith
+whorled proboscis  azimuth
+whorled proboscis  color index
+whorled proboscis  constellation
+whorled proboscis  ecliptic
+whorled proboscis  albedo
+whorled proboscis  metallicity
+whorled proboscis  opacity
+whorled proboscis  periapsis
+whorled proboscis  transit
+whorled proboscis  zenith
+whorled sporophagic  azimuth
+whorled sporophagic  color index
+whorled sporophagic  constellation
+whorled sporophagic  ecliptic
+whorled sporophagic  albedo
+whorled sporophagic  metallicity
+whorled sporophagic  opacity
+whorled sporophagic  periapsis
+whorled sporophagic  transit
+whorled sporophagic  zenith
+whorled villose  azimuth
+whorled villose  color index
+whorled villose  constellation
+whorled villose  ecliptic
+whorled villose  albedo
+whorled villose  metallicity
+whorled villose  opacity
+whorled villose  periapsis
+whorled villose  transit
+whorled villose  zenith
+whorled hypypharynx  azimuth
+whorled hypypharynx  color index
+whorled hypypharynx  constellation
+whorled hypypharynx  ecliptic
+whorled hypypharynx  albedo
+whorled hypypharynx  metallicity
+whorled hypypharynx  opacity
+whorled hypypharynx  periapsis
+whorled hypypharynx  transit
+whorled hypypharynx  zenith
+whorled hyaline  azimuth
+whorled hyaline  color index
+whorled hyaline  constellation
+whorled hyaline  ecliptic
+whorled hyaline  albedo
+whorled hyaline  metallicity
+whorled hyaline  opacity
+whorled hyaline  periapsis
+whorled hyaline  transit
+whorled hyaline  zenith
+whorled hemophagic  azimuth
+whorled hemophagic  color index
+whorled hemophagic  constellation
+whorled hemophagic  ecliptic
+whorled hemophagic  albedo
+whorled hemophagic  metallicity
+whorled hemophagic  opacity
+whorled hemophagic  periapsis
+whorled hemophagic  transit
+whorled hemophagic  zenith
+whorled acariphagous  azimuth
+whorled acariphagous  color index
+whorled acariphagous  constellation
+whorled acariphagous  ecliptic
+whorled acariphagous  albedo
+whorled acariphagous  metallicity
+whorled acariphagous  opacity
+whorled acariphagous  periapsis
+whorled acariphagous  transit
+whorled acariphagous  zenith
+iridescent alate  azimuth
+iridescent alate  color index
+iridescent alate  constellation
+iridescent alate  ecliptic
+iridescent alate  albedo
+iridescent alate  metallicity
+iridescent alate  opacity
+iridescent alate  periapsis
+iridescent alate  transit
+iridescent alate  zenith
+iridescent ambrosia  azimuth
+iridescent ambrosia  color index
+iridescent ambrosia  constellation
+iridescent ambrosia  ecliptic
+iridescent ambrosia  albedo
+iridescent ambrosia  metallicity
+iridescent ambrosia  opacity
+iridescent ambrosia  periapsis
+iridescent ambrosia  transit
+iridescent ambrosia  zenith
+iridescent metathoracic  azimuth
+iridescent metathoracic  color index
+iridescent metathoracic  constellation
+iridescent metathoracic  ecliptic
+iridescent metathoracic  albedo
+iridescent metathoracic  metallicity
+iridescent metathoracic  opacity
+iridescent metathoracic  periapsis
+iridescent metathoracic  transit
+iridescent metathoracic  zenith
+iridescent proboscis  azimuth
+iridescent proboscis  color index
+iridescent proboscis  constellation
+iridescent proboscis  ecliptic
+iridescent proboscis  albedo
+iridescent proboscis  metallicity
+iridescent proboscis  opacity
+iridescent proboscis  periapsis
+iridescent proboscis  transit
+iridescent proboscis  zenith
+iridescent sporophagic  azimuth
+iridescent sporophagic  color index
+iridescent sporophagic  constellation
+iridescent sporophagic  ecliptic
+iridescent sporophagic  albedo
+iridescent sporophagic  metallicity
+iridescent sporophagic  opacity
+iridescent sporophagic  periapsis
+iridescent sporophagic  transit
+iridescent sporophagic  zenith
+iridescent villose  azimuth
+iridescent villose  color index
+iridescent villose  constellation
+iridescent villose  ecliptic
+iridescent villose  albedo
+iridescent villose  metallicity
+iridescent villose  opacity
+iridescent villose  periapsis
+iridescent villose  transit
+iridescent villose  zenith
+iridescent hypypharynx  azimuth
+iridescent hypypharynx  color index
+iridescent hypypharynx  constellation
+iridescent hypypharynx  ecliptic
+iridescent hypypharynx  albedo
+iridescent hypypharynx  metallicity
+iridescent hypypharynx  opacity
+iridescent hypypharynx  periapsis
+iridescent hypypharynx  transit
+iridescent hypypharynx  zenith
+iridescent hyaline  azimuth
+iridescent hyaline  color index
+iridescent hyaline  constellation
+iridescent hyaline  ecliptic
+iridescent hyaline  albedo
+iridescent hyaline  metallicity
+iridescent hyaline  opacity
+iridescent hyaline  periapsis
+iridescent hyaline  transit
+iridescent hyaline  zenith
+iridescent hemophagic  azimuth
+iridescent hemophagic  color index
+iridescent hemophagic  constellation
+iridescent hemophagic  ecliptic
+iridescent hemophagic  albedo
+iridescent hemophagic  metallicity
+iridescent hemophagic  opacity
+iridescent hemophagic  periapsis
+iridescent hemophagic  transit
+iridescent hemophagic  zenith
+iridescent acariphagous  azimuth
+iridescent acariphagous  color index
+iridescent acariphagous  constellation
+iridescent acariphagous  ecliptic
+iridescent acariphagous  albedo
+iridescent acariphagous  metallicity
+iridescent acariphagous  opacity
+iridescent acariphagous  periapsis
+iridescent acariphagous  transit
+iridescent acariphagous  zenith
