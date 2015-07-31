@@ -1,3 +1,3 @@
 ![mashup](images/mashup.gif)
 
-![success](images/success.gif)
+![success](images/success.png)
