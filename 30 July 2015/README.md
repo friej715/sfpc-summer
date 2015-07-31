@@ -2,3 +2,7 @@
 [link](http://htmlpreview.github.io/?https://github.com/friej715/sfpc-summer/blob/master/30%20July%202015/mashup.html)
 
 ![success](images/success.png)
+
+![type](images/type.png)
+
+![notes](images/IMG_3802.JPG)
