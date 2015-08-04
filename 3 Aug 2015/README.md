@@ -1,3 +1,7 @@
+![notes1](images/IMG_3843.JPG)
+
+![notes1](images/IMG_3844.JPG)
+
 Today was Talking To Machines with [Sarah Groff-Palermo](http://www.sarahgp.com/)! I’ve been programming for quite a while now, but have never made my own programming language before, so I was super-psyched for this class. After all, like we talked about in Nick Montfort’s class, platforms embody ideas about how computation should be used, and shape the kinds of things made with them, so being able to make a language that reflects your view of the world/your workflow/etc. seems like a fantastic skill.
 
 Sarah’s first question for us was: how do computers work? What are they good for? After a few answers from us, she took us through a history of different definitions of computation and key moments in its development. We talked a bit about Turing Machines and learned about transistors and their importance to computing. I’m not a hardware person, so it was really interesting to learn about how semiconductors so revolutionized computing.
